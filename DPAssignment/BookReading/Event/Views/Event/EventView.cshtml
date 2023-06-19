@@ -1,0 +1,104 @@
+﻿@model Event.Models.ViewModels.EditEventViewModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> _signInManager
+@inject UserManager<IdentityUser> _userManager
+
+@{
+    var user = await _userManager.GetUserAsync(User);
+    var Name = user != null ? user.UserName : "";
+
+   
+}
+
+
+<div class="container py-5">
+
+    @if (Model != null)
+    {
+
+        String[] Invitees = @Model.InviteByEmail.Split(",");
+
+        int Count = Invitees.Length;
+
+
+
+        <div class="mb-3">
+            <p class="text-success d-inline">Title :</p>@Model.title
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Date :</p>@Model.date
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Location :</p>@Model.location
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Start Time :</p>@Model.startTime
+        </div>
+
+
+        <div class="mb-3">
+            <p class="text-success d-inline">Duration In Hours :</p>@Model.durationInHours
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Description :</p>@Model.description
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Other Details :</p>@Model.otherDetails
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Invitees :</p>@Count
+        </div>
+
+        <div class=" mb-3">
+            <p class="text-success d-inline">Is Public :</p>@Model.Visible
+        </div>
+        <div class="mb-3">
+            <p class="text-success d-inline">Organiser :</p>@Model.Organiser
+        </div>
+
+        <hr style="height:2px; width:80%; border-width:0; color:black; background-color:black">
+        <div class="container">
+            <div class="col-md-12" align="center" style="width: 50%;">
+                @using (Html.BeginForm("PostComment", "Comment"))
+                {
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-3">
+
+                                <img src="https://image.ibb.co/jw55Ex/def_face.jpg" class="img img-rounded img-fluid" />
+                                <p>
+                                    <a class="float-left" href=""><strong class="text-success">Anonymous</strong></a>
+                                </p>
+                            </div>
+
+                            <div class="col-sm-9">
+                                <textarea class="form-control" id="comment" rows="5" asp-for="CommentDescription"></textarea>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            @Html.HiddenFor(m => m.Id)
+                            <button class="btn btn-success btn-circle text-uppercase" type="submit" value="Post" id="submitComment"><span class="glyphicon glyphicon-send"></span> Post comment</button>
+                        </div>
+                    </div>
+
+                }
+            </div>
+        </div>
+
+        <hr style="height:2px; width:80%; border-width:0; color:black; background-color:black">
+        <div class="btn-group mt-2 col-sm-offset-2 col-sm-10">
+            <a asp-action="EventComments" asp-controller="Comment" asp-area="" asp-route-id="@Model.Id" class="btn btn-success btn-circle text-uppercase">Show Comments</a>
+        </div>
+
+
+    }
+
+    else
+    {
+        <p>No Event Found</p>
+    }
+
+</div>

@@ -1,0 +1,39 @@
+﻿@model Event.Models.ViewModels.EditEventViewModel
+
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h3>COMMENTS</h3>
+    </div>
+</div>
+
+@if (Model.Comments != null && Model.Comments.Count > 0)
+{
+    foreach (var comment in Model.Comments)
+    {
+<div class="container">
+    <div class="col-md-12">
+        <div class="card mb-4 shadow-sm">
+
+            <div class="card-body">
+                <div>
+                    <p class="text-success d-inline">Description:</p> @comment.Description
+                </div>
+                <div>
+                    <p class="text-success d-inline">Date Added:</p> @comment.DateAdded.ToString("yyyy-MM-dd HH:mm")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    }
+}
+else
+{
+<p>No comments found.</p>
+}
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.min.js"></script>

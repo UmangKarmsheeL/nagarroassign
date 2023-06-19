@@ -1,0 +1,40 @@
+﻿@model BookReadingEvent1.Models.EventModel
+<div class="container">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <div class="card-title">
+                        <h4>@Model.title </h4>
+                    </div>
+
+                    <div>
+                        <p class="text-success d-inline">Location :</p>@Model.location
+                    </div>
+                    <div>
+                        <p class="text-success d-inline">Date :</p> @Model.date.ToShortDateString()
+                    </div>
+                    <div>
+                        <p class="text-success d-inline">Start Time :</p> @Model.startTime.ToShortTimeString()
+                    </div>
+
+                    <div class="btn-group">
+                        <a asp-action="Details" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-primary">View Details</a>
+                        <partial name="_EventEdit"/>
+                        <partial name="_EventDelete"/>
+                    </div>
+                    <p></p>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p class="text-danger">@Model.eventType Event</p>
+                        </div>
+                        <div class="col-md-6 text-danger">Organised by <b>@Model.organiser</b></div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

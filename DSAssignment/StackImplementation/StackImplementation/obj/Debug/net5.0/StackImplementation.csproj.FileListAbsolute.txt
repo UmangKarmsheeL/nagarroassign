@@ -1,0 +1,16 @@
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.exe
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.deps.json
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.runtimeconfig.json
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.runtimeconfig.dev.json
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\ref\StackImplementation.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\bin\Debug\net5.0\StackImplementation.pdb
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.csproj.AssemblyReference.cache
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.AssemblyInfoInputs.cache
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.AssemblyInfo.cs
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\ref\StackImplementation.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.pdb
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\DSAssignment\StackImplementation\StackImplementation\obj\Debug\net5.0\StackImplementation.genruntimeconfig.cache

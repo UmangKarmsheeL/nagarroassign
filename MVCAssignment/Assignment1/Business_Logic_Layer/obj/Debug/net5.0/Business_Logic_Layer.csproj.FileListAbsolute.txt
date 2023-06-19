@@ -1,0 +1,15 @@
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\bin\Debug\net5.0\Business_Logic_Layer.deps.json
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\bin\Debug\net5.0\Business_Logic_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\bin\Debug\net5.0\ref\Business_Logic_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\bin\Debug\net5.0\Business_Logic_Layer.pdb
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\bin\Debug\net5.0\Data_Acess_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\bin\Debug\net5.0\Data_Acess_Layer.pdb
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.csproj.CopyComplete
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\ref\Business_Logic_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.pdb

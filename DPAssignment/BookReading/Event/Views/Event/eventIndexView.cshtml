@@ -1,0 +1,57 @@
+﻿@model CommonModel.Model.AddEvent
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> _signInManager
+@inject UserManager<IdentityUser> _userManager
+
+@{
+    var user = await _userManager.GetUserAsync(User);
+    var email = user != null ? user.Email : "";
+
+}
+
+<div class="container">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="card mb-4 shadow-sm">
+
+                <div class="card-body">
+                    <div class="card-title">
+                        <h4>@Model.title</h4>
+                    </div>
+
+                    <div>
+                        <p class="text-success d-inline">Location :</p>@Model.location
+                    </div>
+                    <div>
+                        <p class="text-success d-inline">Date :</p> @Model.date.ToShortDateString()
+                    </div>
+                    <div>
+                        <p class="text-success d-inline">Start Time :</p> @Model.startTime
+                    </div>
+
+                    @if (email == "umang@nagarro.com")
+                    {
+                        <div class="btn-group mt-2">
+                            <a asp-action="Edit" asp-controller="Event" asp-area="" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-primary">Edit Event</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="btn-group mt-2">
+                            <a asp-action="EventView" asp-controller="Event" asp-area="" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-primary">Event Details</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+

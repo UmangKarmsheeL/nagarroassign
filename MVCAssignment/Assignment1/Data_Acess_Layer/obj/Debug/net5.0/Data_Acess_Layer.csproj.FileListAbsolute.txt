@@ -1,0 +1,15 @@
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\bin\Debug\net5.0\Data_Acess_Layer.deps.json
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\bin\Debug\net5.0\Data_Acess_Layer.runtimeconfig.json
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\bin\Debug\net5.0\Data_Acess_Layer.runtimeconfig.dev.json
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\bin\Debug\net5.0\Data_Acess_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\bin\Debug\net5.0\ref\Data_Acess_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\bin\Debug\net5.0\Data_Acess_Layer.pdb
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.csproj.AssemblyReference.cache
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.AssemblyInfoInputs.cache
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.AssemblyInfo.cs
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.csproj.CoreCompileInputs.cache
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\ref\Data_Acess_Layer.dll
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.pdb
+C:\Users\umangkarmsheel\Downloads\BookReadingEvent-master\BookReadingEvent-master\Data_Acess_Layer\obj\Debug\net5.0\Data_Acess_Layer.genruntimeconfig.cache

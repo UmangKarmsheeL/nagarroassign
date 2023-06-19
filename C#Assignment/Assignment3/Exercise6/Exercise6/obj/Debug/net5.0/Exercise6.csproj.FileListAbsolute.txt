@@ -1,0 +1,16 @@
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\Exercise6.exe
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\Exercise6.deps.json
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\Exercise6.runtimeconfig.json
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\Exercise6.runtimeconfig.dev.json
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\Exercise6.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\ref\Exercise6.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\bin\Debug\net5.0\Exercise6.pdb
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.csproj.AssemblyReference.cache
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfoInputs.cache
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfo.cs
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\ref\Exercise6.dll
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.pdb
+C:\Users\umangkarmsheel\Desktop\umang-karmsheel\C#Assignment\Assignment3\Exercise6\Exercise6\obj\Debug\net5.0\Exercise6.genruntimeconfig.cache

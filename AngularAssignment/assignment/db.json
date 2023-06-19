@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "roll": 14,
+      "name": "dwdwdd",
+      "dob": "2000-06-05",
+      "score": 55
+    },
+    {
+      "id": 5,
+      "roll": 23,
+      "name": "ramesh",
+      "dob": "2023-05-19",
+      "score": 54
+    }
+  ],
+  "users": [
+    {
+      "name": "sam",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "password": "12",
+      "id": 2
+    },
+    {
+      "name": "sam",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "Arjun",
+      "password": "11",
+      "id": 4
+    },
+    {
+      "name": "Hari",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "Zucker",
+      "password": "23",
+      "id": 6
+    },
+    {
+      "name": "Sam",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "Rukit",
+      "password": "321",
+      "id": 8
+    },
+    {
+      "name": "Aadit",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "Rishabh",
+      "password": "543",
+      "id": 10
+    },
+    {
+      "name": "teacher1",
+      "password": "123",
+      "id": 11
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
